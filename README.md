@@ -1,2 +1,1 @@
-# game.table.builder.leter
-leter code game builder table land
+wizard genareter for mounter code to past on power automate
